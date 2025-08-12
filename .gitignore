@@ -1,0 +1,13 @@
+[Bb]in/
+[Oo]bj/
+.vs/
+*.suo
+*.user
+
+*.generated.cs
+
+*.pdb
+*.exe
+*.dll
+
+*.spv
