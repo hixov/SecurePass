@@ -1,7 +1,8 @@
-SecurePass - Локальный менеджер паролей
-Простой, безопасный и локальный менеджер паролей, созданный с помощью C# и WPF. Все ваши данные хранятся в одном зашифрованном файле на вашем компьютере и никогда не покидают его.
+# SecurePass - Локальный менеджер паролей
+### Простой, безопасный и локальный менеджер паролей, созданный с помощью C# и WPF. Все ваши данные хранятся в одном зашифрованном файле на вашем компьютере и никогда не покидают его.
 
-✨ Особенности
+✨ **Особенности**
+
 Полная локальность: Все данные хранятся только у вас. Никаких облаков и серверов.
 
 Надежное шифрование: Используется современный алгоритм AES-GCM для защиты ваших данных.
@@ -10,7 +11,8 @@ SecurePass - Локальный менеджер паролей
 
 Простой интерфейс: Современный темный дизайн без лишних деталей.
 
-🚀 Сборка проекта
+🚀 **Сборка проекта**
+
 Для сборки проекта вам понадобится .NET 8 SDK.
 
 Клонируйте репозиторий.
@@ -25,7 +27,8 @@ SecurePass - Локальный менеджер паролей
 ```
 Папка с готовым файлом откроется автоматически после успешной сборки.
 
-📖 Как использовать
+📖 **Как использовать**
+
 Запустите SecurePass.exe.
 
 При первом запуске программа предложит вам создать или выбрать файл хранилища (с расширением .spv). Этот файл будет содержать все ваши зашифрованные данные.
@@ -38,10 +41,13 @@ SecurePass - Локальный менеджер паролей
 
 made by t.me/hixov
 ___________________________________________________________________________________________________________________________
-SecurePass - Local Password Manager
-A simple, secure, and local password manager built with C# and WPF. All your data is stored in a single encrypted file on your computer and never leaves it.
 
-✨ Features
+
+# SecurePass - Local Password Manager
+### A simple, secure, and local password manager built with C# and WPF. All your data is stored in a single encrypted file on your computer and never leaves it.
+
+✨ **Features**
+
 Fully Local: All data is stored only on your machine. No clouds, no servers.
 
 Strong Encryption: Uses the modern AES-GCM algorithm to protect your data.
@@ -50,7 +56,8 @@ Single File: The entire application compiles into a single .exe file that doesn'
 
 Simple Interface: A modern, dark-themed design without unnecessary clutter.
 
-🚀 How to Build
+🚀 **How to Build**
+
 You will need the .NET 8 SDK to build the project.
 
 Clone the repository.
@@ -65,7 +72,8 @@ The final SecurePass.exe will be located in the following folder:
 ```
 The folder containing the final executable will open automatically after a successful build.
 
-📖 How to Use
+📖 **How to Use**
+
 Run SecurePass.exe.
 
 On the first launch, the program will prompt you to create or select a vault file (with a .spv extension). This file will contain all your encrypted data.
@@ -75,5 +83,6 @@ Create and enter a master password. This password is the only key to your data. 
 Use the "Add" and "Remove" buttons to manage your entries.
 
 All changes are automatically saved to the encrypted file when you close the program.
+
 
 made by t.me/hixov
